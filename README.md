@@ -1,47 +1,49 @@
-### Hi there, I'm Anuj  👋
+### Hi there, I'm Anuj 👋
 
-[![Twitter Follow](https://img.shields.io/badge/FOLLOW-%40%20ANUJGAJBHIYE2-blue?style=for-the-badge&logo=appveyor)](https://twitter.com/AnujGajbhiye2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-gajbhiye-baa1ba134/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://anujgajbhiye.vercel.app)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AnujGajbhiye2)
 
-## I'm a Sr. Software Developer!
+## I'm a Frontend-Focused Full Stack Engineer 🚀
 
-- 🔭 I’m currently working on a [Vue.Js/ColdFusion]
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to travel and play ukulele
-
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/0YDPIh2tpxnrdvhW00kYpu?si=eaoxebhPSqSx0zoIqcRY8w)
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://anujgajbhiye.netlify.app/]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<br />
-<br />
+- 🏢 Previously **Software Engineer @ Yahoo/AOL** — built features serving **30M+ MAU**
+- 🎓 **MSc Computer Science** (First Class Honours) — University College Dublin
+- 🌍 Based in **Dublin, Ireland** · Stamp 4 Work Authorization
+- 🔭 Currently building: **[My Developer Portfolio](https://anujgajbhiye.vercel.app)** — React 19, TypeScript, Vite, Zustand
+- 🌱 Currently sharpening: **System Design**, **Node.js backends**, and **full-stack architecture**
+- 🎸 Fun fact: I play **ukulele**, tinker with **3D printing**, and game on **PlayStation**
 
 ---
 
- ### Github Stats
+### 🛠️ Languages and Tools
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anujgajbhiye2&show_icons=true&hide_border=true" />
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+---
 
+### 📊 GitHub Stats
 
+<img align="left" alt="Anuj's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anujgajbhiye2&show_icons=true&hide_border=true&theme=tokyonight" />
 
-[twitter]: https://twitter.com/AnujGajbhiye2
-[instagram]: https://www.instagram.com/anuj_gajbhiye_
-[linkedin]: https://www.linkedin.com/in/anuj-gajbhiye-baa1ba134/
+<img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujgajbhiye2&layout=compact&hide_border=true&theme=tokyonight" />
+
+---
+
+### 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anuj-gajbhiye-baa1ba134/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat-square&logo=vercel)](https://anujgajbhiye.vercel.app)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/AnujGajbhiye2)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/anuj_gajbhiye_)
