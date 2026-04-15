@@ -33,11 +33,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-<img align="left" alt="Anuj's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anujgajbhiye2&show_icons=true&hide_border=true&theme=tokyonight" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=AnujGajbhiye2&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-<img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujgajbhiye2&layout=compact&hide_border=true&theme=tokyonight" />
+[![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnujGajbhiye2&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&cache_seconds=1800)](https://github.com/AnujGajbhiye2)
 
 ---
 
